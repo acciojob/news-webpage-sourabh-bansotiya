@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.header{
+	background-color: #011e29;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+#main{
+	background-color: #f5f5f5;
+}
+.latest_news_section{
+	background-color: white;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+.main_art{
+	background-color: white;
+	width: 500px;
+	padding: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+.pictorial-news-section{
+	background-color: white;
+	width: 600px;
+	padding: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+
